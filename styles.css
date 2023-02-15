@@ -1,0 +1,25 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:rgb(162, 147, 247);
+    font-size: 25px;
+}
+
+h1{
+  color:white;
+}
+
+#addDiv{
+  padding: 10px;
+  margin: 10px;
+}
+
+#delDiv{
+  padding: 10px;
+  margin: 10px;
+}
+
+#updDiv{
+  padding: 10px;
+  margin: 10px;
+}
